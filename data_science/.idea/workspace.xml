@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3d89f502-237b-409a-b3aa-9984ea3fb467" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/np_pyplot.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/np_sort.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/np_sort.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -127,7 +127,8 @@
       <workItem from="1573631639813" duration="28000" />
       <workItem from="1573711087383" duration="7012000" />
       <workItem from="1573777635569" duration="4157000" />
-      <workItem from="1573793403285" duration="9924000" />
+      <workItem from="1573793403285" duration="9969000" />
+      <workItem from="1573886644887" duration="11660000" />
     </task>
     <task id="LOCAL-00001" summary="Lap_191114">
       <created>1573718675776</created>
@@ -143,7 +144,14 @@
       <option name="project" value="LOCAL" />
       <updated>1573782685610</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Lap_191115">
+      <created>1573805145444</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1573805145444</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
