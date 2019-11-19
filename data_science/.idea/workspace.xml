@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3d89f502-237b-409a-b3aa-9984ea3fb467" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/pd_hieridx.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pd_null.ipynb" afterDir="false" />
+    <list default="true" id="3d89f502-237b-409a-b3aa-9984ea3fb467" name="Default Changelist" comment="Lap_191119">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pd_obj3.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/pd_obj3.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pd_hieridx.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/pd_hieridx.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -137,7 +135,7 @@
       <workItem from="1574052035777" duration="9637000" />
       <workItem from="1574074030406" duration="2556000" />
       <workItem from="1574122690885" duration="5360000" />
-      <workItem from="1574136891606" duration="6912000" />
+      <workItem from="1574136891606" duration="8975000" />
     </task>
     <task id="LOCAL-00001" summary="Lap_191114">
       <created>1573718675776</created>
@@ -188,7 +186,14 @@
       <option name="project" value="LOCAL" />
       <updated>1574128201496</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Lap_191119">
+      <created>1574144103906</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1574144103906</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
