@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="3d89f502-237b-409a-b3aa-9984ea3fb467" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pd_hieridx.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/pd_hieridx.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -136,7 +135,8 @@
       <workItem from="1574074030406" duration="2556000" />
       <workItem from="1574122690885" duration="5360000" />
       <workItem from="1574136891606" duration="9151000" />
-      <workItem from="1574210112649" duration="1771000" />
+      <workItem from="1574210112649" duration="1896000" />
+      <workItem from="1574212672144" duration="6000" />
     </task>
     <task id="LOCAL-00001" summary="Lap_191114">
       <created>1573718675776</created>
@@ -201,7 +201,14 @@
       <option name="project" value="LOCAL" />
       <updated>1574150800655</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Lap_191120">
+      <created>1574212569627</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1574212569628</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -226,7 +233,8 @@
     <MESSAGE value="Lap_191116" />
     <MESSAGE value="Lap_191118" />
     <MESSAGE value="Lap_191119" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lap_191119" />
+    <MESSAGE value="Lap_191120" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lap_191120" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
