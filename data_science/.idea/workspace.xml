@@ -2,10 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3d89f502-237b-409a-b3aa-9984ea3fb467" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../Project_Euler/034.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Project_Euler/035.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Project_Euler/033.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Project_Euler/033.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Project_Euler/034.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Project_Euler/034.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -35,16 +31,14 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Jupyter Notebook" />
-        <option value="Python Script" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="ADD_SUFFIX_TO_CHERRY_PICKS_OF_PUBLISHED_COMMITS" value="false" />
     <option name="PREVIEW_PUSH_ON_COMMIT_AND_PUSH" value="false" />
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../Project_Euler" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
-    <option name="UPDATE_TYPE" value="MERGE" />
     <option name="WARN_ABOUT_CRLF" value="false" />
     <option name="WARN_ABOUT_DETACHED_HEAD" value="false" />
   </component>
@@ -54,8 +48,8 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Project_Euler" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.build" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -69,83 +63,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.035">
-    <configuration name="033" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Project_Euler" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../Project_Euler" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../Project_Euler/033.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="034" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Project_Euler" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../Project_Euler" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../Project_Euler/034.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="035" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Project_Euler" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../Project_Euler" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../Project_Euler/035.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Prime_num_ex" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Project_Euler" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../Project_Euler" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../Project_Euler/Prime_num_ex.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="data_science" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -192,10 +110,6 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.035" />
-        <item itemvalue="Python.033" />
-        <item itemvalue="Python.Prime_num_ex" />
-        <item itemvalue="Python.034" />
         <item itemvalue="Python.np_br3" />
       </list>
     </recent_temporary>
@@ -221,7 +135,8 @@
       <workItem from="1574074030406" duration="2556000" />
       <workItem from="1574122690885" duration="5360000" />
       <workItem from="1574136891606" duration="9151000" />
-      <workItem from="1574210112649" duration="1771000" />
+      <workItem from="1574210112649" duration="1896000" />
+      <workItem from="1574212672144" duration="6000" />
     </task>
     <task id="LOCAL-00001" summary="Lap_191114">
       <created>1573718675776</created>
@@ -286,12 +201,12 @@
       <option name="project" value="LOCAL" />
       <updated>1574150800655</updated>
     </task>
-    <task id="LOCAL-00010" summary="Desk_191121">
-      <created>1574345187373</created>
+    <task id="LOCAL-00010" summary="Lap_191120">
+      <created>1574212569627</created>
       <option name="number" value="00010" />
       <option name="presentableId" value="LOCAL-00010" />
       <option name="project" value="LOCAL" />
-      <updated>1574345187373</updated>
+      <updated>1574212569628</updated>
     </task>
     <option name="localTasksCounter" value="11" />
     <servers />
@@ -318,8 +233,8 @@
     <MESSAGE value="Lap_191116" />
     <MESSAGE value="Lap_191118" />
     <MESSAGE value="Lap_191119" />
-    <MESSAGE value="Desk_191121" />
-    <option name="LAST_COMMIT_MESSAGE" value="Desk_191121" />
+    <MESSAGE value="Lap_191120" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lap_191120" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
