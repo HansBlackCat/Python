@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3d89f502-237b-409a-b3aa-9984ea3fb467" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../Project_Euler/036.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Project_Euler/037.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Project_Euler/038.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Project_Euler/035.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Project_Euler/035.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Project_Euler/038.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Project_Euler/038.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -74,6 +71,9 @@
       <module name="Project_Euler" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../Project_Euler" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -93,6 +93,9 @@
       <module name="Project_Euler" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../Project_Euler" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -112,6 +115,9 @@
       <module name="Project_Euler" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../Project_Euler" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -131,6 +137,9 @@
       <module name="Project_Euler" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../Project_Euler" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -150,6 +159,9 @@
       <module name="Project_Euler" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../Project_Euler" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -220,6 +232,7 @@
       <workItem from="1574136891606" duration="9151000" />
       <workItem from="1574210112649" duration="1896000" />
       <workItem from="1574212672144" duration="6000" />
+      <workItem from="1574505751191" duration="1425000" />
     </task>
     <task id="LOCAL-00001" summary="Lap_191114">
       <created>1573718675776</created>
@@ -298,7 +311,14 @@
       <option name="project" value="LOCAL" />
       <updated>1574434314168</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Desk_191123">
+      <created>1574445736780</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1574445736780</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -326,7 +346,8 @@
     <MESSAGE value="Lap_191119" />
     <MESSAGE value="Lap_191120" />
     <MESSAGE value="Desk_191122" />
-    <option name="LAST_COMMIT_MESSAGE" value="Desk_191122" />
+    <MESSAGE value="Desk_191123" />
+    <option name="LAST_COMMIT_MESSAGE" value="Desk_191123" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
