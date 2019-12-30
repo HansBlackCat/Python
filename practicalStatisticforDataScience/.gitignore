@@ -1,1 +1,4 @@
+# << Pip Package You need to install >>
+# Recommend virtualenv
+# numpy scipy matplotlib ipython jupyter pandas sympy nose statsmodels wquantiles
 env
